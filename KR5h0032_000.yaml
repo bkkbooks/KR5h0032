@@ -1,0 +1,24 @@
+canonical_identifier: bkk:krp/KR5h0032/krp/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 漢天師世家
+  edition:
+    short: krp
+  base_edition: HFL
+  date: '2015-08-29 03:03:05.058687'
+  source:
+    repository: kanripo
+    path: KR5h0032/KR5h0032_000.txt
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+hash: sha256:9f6c68f04bd0b73e6eb3c33493d6fa9efa9a5f809097c2bd4f86c6ba340f26d3
